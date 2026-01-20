@@ -1,0 +1,12 @@
+/*
+
+3.14-> double
+
+"Hello"-> String
+
+true-> bool
+
+42-> int
+
+
+*/
