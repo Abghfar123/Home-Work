@@ -1,3 +1,4 @@
-void maon(){
+void maon(){ 
+  print("Mahmoud");
   
 }
