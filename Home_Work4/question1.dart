@@ -1,6 +1,16 @@
-void maon(){ 
-  print("Mahmoud");
+void main(){ 
 
-  print("Abghfar");
+  List<int> numbers = [5,3,5,7,3,9];
+
+  Set<int> uniqueNumbers = numbers.toSet();
+
+  print(uniqueNumbers);
+  print(uniqueNumbers.length); 
+
+
+
+
+
+ 
   
 }
